@@ -3,7 +3,7 @@ layout: default
 title: "portfolio head"
 ---
 
-#portfolio shmortfolio
-* i hate
-* i hate
-* just kidding
+#Portfolio Head
+* Portfolio 1
+* Portfolio 2
+* Portfolio 3
