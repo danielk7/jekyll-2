@@ -1,3 +1,8 @@
-name: Daniel K.
+# Variables & Global
+name: Prologue by HTML5 UP
 markdown: redcarpet
-baseurl: /jekyll
+site_name: 'Daniel K'
+name-description: Web Lab - P2 Jekyll
+
+# Server Configs
+baseurl: /jekyll-theme
